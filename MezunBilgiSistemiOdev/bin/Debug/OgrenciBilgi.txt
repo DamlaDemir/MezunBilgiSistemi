@@ -1,0 +1,120 @@
+Damla Demir
+Manisa
+05418567896
+dmldemirr@gmail.com
+T.C.
+01.01.1995
+162803030
+Upper Intermediate
+Kitap Okumak
+Octovus
+22.05.2016
+Yazilim 
+Yazilim Muhendisi
+Yazilim Muhendisligi
+2014
+2019
+90
+true
+100
+sifre1
+Ozge Algan
+Konya
+05326874521
+ozgealgan@yandex.com
+T.C.
+20.09.1996
+172803030
+Advanced
+Yuzmek
+Logo
+25.04.2016
+Yazilim
+Yazilim Muhendisi
+Yazilim Muhendisligi
+2014
+2019
+80
+true
+90
+sifre2
+Asena Boga
+Adana
+05418567896
+asenaboga@gmail.com
+T.C.
+01.01.1995
+152803030
+Upper Intermediate
+Kitap Okumak
+Octovus
+22.05.2016
+Enerji Sistemleri
+Enerji Sistemleri Muhendisi
+Enerji Sistemleri Muhendisligi
+2014
+2019
+70
+true
+80
+sifre3
+Pelin Alp
+Malatya
+05418567896
+pelinAlp@gmail.com
+T.C.
+01.01.1995
+142803030
+Preintermediate 
+Kitap Okumak
+Octovus
+22.05.2016
+Makina ve Imalat
+Makina ve Imalat Mühendisi
+Makina ve Imalat Muhendisligi
+2014
+2019
+90
+true
+100
+sifre4
+Sema Bayri
+Sakarya
+05418567896
+semaBayri@gmail.com
+T.C.
+01.01.1995
+132803030
+Advanced
+Kitap Okumak
+Octovus
+22.05.2016
+Makina ve Imalat  
+Makina ve Imalat Mühendisi
+Makina ve Imalat Muhendisligi
+2014
+2019
+30
+false
+30
+sifre5
+Meltem Kaya
+Sakarya
+05418567896
+meltemKaya@gmail.com
+T.C.
+01.01.1995
+122803030
+Intermediate
+Kitap Okumak
+Octovus
+22.05.2016
+Enerji Sistemleri
+Enerji Sistemleri Muhendisi
+Enerji Sistemleri Muhendisligi
+2014
+2019
+65
+false
+65
+sifre6

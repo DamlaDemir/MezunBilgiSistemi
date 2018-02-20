@@ -1,0 +1,57 @@
+C:\Users\Lenovo\Desktop\Özgem\MezunBilgiSistemiOdev\MezunBilgiSistemiOdev\bin\Debug\MezunBilgiSistemiOdev.exe.config
+C:\Users\Lenovo\Desktop\Özgem\MezunBilgiSistemiOdev\MezunBilgiSistemiOdev\obj\Debug\MezunBilgiSistemiOdev.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Özgem\MezunBilgiSistemiOdev\MezunBilgiSistemiOdev\obj\Debug\MezunBilgiSistemiOdev.Form1.resources
+C:\Users\Lenovo\Desktop\Özgem\MezunBilgiSistemiOdev\MezunBilgiSistemiOdev\obj\Debug\MezunBilgiSistemiOdev.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Özgem\MezunBilgiSistemiOdev\MezunBilgiSistemiOdev\obj\Debug\MezunBilgiSistemiOdev.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\Özgem\MezunBilgiSistemiOdev\MezunBilgiSistemiOdev\bin\Debug\MezunBilgiSistemiOdev.exe
+C:\Users\Lenovo\Desktop\Özgem\MezunBilgiSistemiOdev\MezunBilgiSistemiOdev\bin\Debug\MezunBilgiSistemiOdev.pdb
+C:\Users\Lenovo\Desktop\Özgem\MezunBilgiSistemiOdev\MezunBilgiSistemiOdev\obj\Debug\MezunBilgiSistemiOdev.exe
+C:\Users\Lenovo\Desktop\Özgem\MezunBilgiSistemiOdev\MezunBilgiSistemiOdev\obj\Debug\MezunBilgiSistemiOdev.pdb
+G:\ \MezunBilgiSistemiOdev\MezunBilgiSistemiOdev\bin\Debug\MezunBilgiSistemiOdev.exe.config
+G:\ \MezunBilgiSistemiOdev\MezunBilgiSistemiOdev\obj\Debug\MezunBilgiSistemiOdev.exe
+G:\ \MezunBilgiSistemiOdev\MezunBilgiSistemiOdev\obj\Debug\MezunBilgiSistemiOdev.pdb
+C:\Users\asus\Desktop\MezunBilgiSistemiOdev\MezunBilgiSistemiOdev\bin\Debug\MezunBilgiSistemiOdev.exe.config
+C:\Users\asus\Desktop\MezunBilgiSistemiOdev\MezunBilgiSistemiOdev\obj\Debug\MezunBilgiSistemiOdev.exe
+C:\Users\asus\Desktop\MezunBilgiSistemiOdev\MezunBilgiSistemiOdev\obj\Debug\MezunBilgiSistemiOdev.pdb
+C:\Users\asus\Desktop\MezunBilgiSistemiOdev\MezunBilgiSistemiOdev\obj\Debug\MezunBilgiSistemiOdev.csprojResolveAssemblyReference.cache
+C:\Users\asus\Desktop\MezunBilgiSistemiOdev\MezunBilgiSistemiOdev\obj\Debug\MezunBilgiSistemiOdev.Form1.resources
+C:\Users\asus\Desktop\MezunBilgiSistemiOdev\MezunBilgiSistemiOdev\obj\Debug\MezunBilgiSistemiOdev.Properties.Resources.resources
+C:\Users\asus\Desktop\MezunBilgiSistemiOdev\MezunBilgiSistemiOdev\obj\Debug\MezunBilgiSistemiOdev.csproj.GenerateResource.Cache
+C:\Users\asus\Desktop\MezunBilgiSistemiOdev\MezunBilgiSistemiOdev\bin\Debug\MezunBilgiSistemiOdev.exe
+C:\Users\asus\Desktop\MezunBilgiSistemiOdev\MezunBilgiSistemiOdev\bin\Debug\MezunBilgiSistemiOdev.pdb
+C:\Users\Özge Algan\Desktop\MezunBilgiSistemiOdev\MezunBilgiSistemiOdev\bin\Debug\MezunBilgiSistemiOdev.exe.config
+C:\Users\Özge Algan\Desktop\MezunBilgiSistemiOdev\MezunBilgiSistemiOdev\obj\Debug\MezunBilgiSistemiOdev.exe
+C:\Users\Özge Algan\Desktop\MezunBilgiSistemiOdev\MezunBilgiSistemiOdev\obj\Debug\MezunBilgiSistemiOdev.pdb
+C:\Users\Özge Algan\Desktop\MezunBilgiSistemiOdev\MezunBilgiSistemiOdev\obj\Debug\MezunBilgiSistemiOdev.csprojResolveAssemblyReference.cache
+C:\Users\Özge Algan\Desktop\MezunBilgiSistemiOdev\MezunBilgiSistemiOdev\obj\Debug\MezunBilgiSistemiOdev.Form1.resources
+C:\Users\Özge Algan\Desktop\MezunBilgiSistemiOdev\MezunBilgiSistemiOdev\obj\Debug\MezunBilgiSistemiOdev.Properties.Resources.resources
+C:\Users\Özge Algan\Desktop\MezunBilgiSistemiOdev\MezunBilgiSistemiOdev\obj\Debug\MezunBilgiSistemiOdev.csproj.GenerateResource.Cache
+C:\Users\Özge Algan\Desktop\MezunBilgiSistemiOdev\MezunBilgiSistemiOdev\bin\Debug\MezunBilgiSistemiOdev.exe
+C:\Users\Özge Algan\Desktop\MezunBilgiSistemiOdev\MezunBilgiSistemiOdev\bin\Debug\MezunBilgiSistemiOdev.pdb
+F:\MezunBilgiSistemiOdev\MezunBilgiSistemiOdev\bin\Debug\MezunBilgiSistemiOdev.exe.config
+F:\MezunBilgiSistemiOdev\MezunBilgiSistemiOdev\obj\Debug\MezunBilgiSistemiOdev.exe
+F:\MezunBilgiSistemiOdev\MezunBilgiSistemiOdev\obj\Debug\MezunBilgiSistemiOdev.pdb
+F:\MezunBilgiSistemiOdev\MezunBilgiSistemiOdev\bin\Debug\MezunBilgiSistemiOdev.exe
+F:\MezunBilgiSistemiOdev\MezunBilgiSistemiOdev\bin\Debug\MezunBilgiSistemiOdev.pdb
+F:\MezunBilgiSistemiOdev\MezunBilgiSistemiOdev\obj\Debug\MezunBilgiSistemiOdev.csprojResolveAssemblyReference.cache
+F:\MezunBilgiSistemiOdev\MezunBilgiSistemiOdev\obj\Debug\MezunBilgiSistemiOdev.Form1.resources
+F:\MezunBilgiSistemiOdev\MezunBilgiSistemiOdev\obj\Debug\MezunBilgiSistemiOdev.Properties.Resources.resources
+F:\MezunBilgiSistemiOdev\MezunBilgiSistemiOdev\obj\Debug\MezunBilgiSistemiOdev.csproj.GenerateResource.Cache
+C:\Users\X556\Desktop\github\MezunBilgiSistemiOdev\MezunBilgiSistemiOdev\bin\Debug\MezunBilgiSistemiOdev.exe.config
+C:\Users\X556\Desktop\github\MezunBilgiSistemiOdev\MezunBilgiSistemiOdev\obj\Debug\MezunBilgiSistemiOdev.exe
+C:\Users\X556\Desktop\github\MezunBilgiSistemiOdev\MezunBilgiSistemiOdev\obj\Debug\MezunBilgiSistemiOdev.pdb
+C:\Users\X556\Desktop\github\MezunBilgiSistemiOdev\MezunBilgiSistemiOdev\bin\Debug\MezunBilgiSistemiOdev.exe
+C:\Users\X556\Desktop\github\MezunBilgiSistemiOdev\MezunBilgiSistemiOdev\bin\Debug\MezunBilgiSistemiOdev.pdb
+C:\Users\X556\Desktop\github\MezunBilgiSistemiOdev\MezunBilgiSistemiOdev\obj\Debug\MezunBilgiSistemiOdev.csprojResolveAssemblyReference.cache
+C:\Users\X556\Desktop\github\MezunBilgiSistemiOdev\MezunBilgiSistemiOdev\obj\Debug\MezunBilgiSistemiOdev.Form1.resources
+C:\Users\X556\Desktop\github\MezunBilgiSistemiOdev\MezunBilgiSistemiOdev\obj\Debug\MezunBilgiSistemiOdev.Properties.Resources.resources
+C:\Users\X556\Desktop\github\MezunBilgiSistemiOdev\MezunBilgiSistemiOdev\obj\Debug\MezunBilgiSistemiOdev.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\github\MezunBilgiSistemiOdev\MezunBilgiSistemiOdev\bin\Debug\MezunBilgiSistemiOdev.exe.config
+C:\Users\ASUS\Desktop\github\MezunBilgiSistemiOdev\MezunBilgiSistemiOdev\obj\Debug\MezunBilgiSistemiOdev.exe
+C:\Users\ASUS\Desktop\github\MezunBilgiSistemiOdev\MezunBilgiSistemiOdev\obj\Debug\MezunBilgiSistemiOdev.pdb
+C:\Users\ASUS\Desktop\github\MezunBilgiSistemiOdev\MezunBilgiSistemiOdev\bin\Debug\MezunBilgiSistemiOdev.exe
+C:\Users\ASUS\Desktop\github\MezunBilgiSistemiOdev\MezunBilgiSistemiOdev\bin\Debug\MezunBilgiSistemiOdev.pdb
+C:\Users\ASUS\Desktop\github\MezunBilgiSistemiOdev\MezunBilgiSistemiOdev\obj\Debug\MezunBilgiSistemiOdev.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\github\MezunBilgiSistemiOdev\MezunBilgiSistemiOdev\obj\Debug\MezunBilgiSistemiOdev.Form1.resources
+C:\Users\ASUS\Desktop\github\MezunBilgiSistemiOdev\MezunBilgiSistemiOdev\obj\Debug\MezunBilgiSistemiOdev.Properties.Resources.resources
+C:\Users\ASUS\Desktop\github\MezunBilgiSistemiOdev\MezunBilgiSistemiOdev\obj\Debug\MezunBilgiSistemiOdev.csproj.GenerateResource.Cache
