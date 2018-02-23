@@ -56,9 +56,6 @@ Ayrıca sistem de şirket için en uygun mezunu belirleyebilmelidir. Öğrencile
 
 ![ekran görüntüsü 1](https://github.com/DamlaDemir/MezunBilgiSistemi/blob/master/MezunBilgiSistemiOdev/Images/1.png)
 
-![ekran görüntüsü 2](https://github.com/DamlaDemir/MezunBilgiSistemi/blob/master/MezunBilgiSistemiOdev/Images/2.png)
-
 ![ekran görüntüsü 3](https://github.com/DamlaDemir/MezunBilgiSistemi/blob/master/MezunBilgiSistemiOdev/Images/3.png)
 
-![ekran görüntüsü 4](https://github.com/DamlaDemir/MezunBilgiSistemi/blob/master/MezunBilgiSistemiOdev/Images/4.png)
 
