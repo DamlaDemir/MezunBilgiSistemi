@@ -52,10 +52,5 @@ Ayrıca sistem de şirket için en uygun mezunu belirleyebilmelidir. Öğrencile
 
 **Hash Table:** Anahtar olarak öğrenci bölümlerini gönderip bölüm adlarına göre indis bulunur. Aynı bölümdeki öğrenciler için de indisin içinde heap tutulur.
 
-### Ekran Görüntüleri <hr>
-
-![ekran görüntüsü 1](https://github.com/DamlaDemir/MezunBilgiSistemi/blob/master/MezunBilgiSistemiOdev/Images/1.png)
-
-![ekran görüntüsü 3](https://github.com/DamlaDemir/MezunBilgiSistemi/blob/master/MezunBilgiSistemiOdev/Images/3.png)
 
 
